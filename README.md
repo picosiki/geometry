@@ -16,7 +16,7 @@ pip install git+https://github.com/picosiki/geometry.git
 ## Использование
 
 ```
-from geometry.figures import Circle, Triangle
+from library.figures import Circle, Triangle
 
 circle = Circle(5)
 print(f"Площадь круга: {circle.area():.2f}")
