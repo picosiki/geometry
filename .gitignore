@@ -1,0 +1,6 @@
+*.tmp
+*.secret.yaml
+__pycache__/*
+__pycache__
+*.old
+logs/*.log
